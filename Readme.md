@@ -1,11 +1,11 @@
 # Heater Balancing
 
-### the problem.
+### The Problem.
 Heater balancing is the process by which a heating engineer ensures that the heating system of a building increases temperature in a uniform manner. The standard proceedure as it stands is to open all radiators fully and turn the heating on, running around seeing which heats up quicker and closing its flow valve bit by bit until it increases at the same speed as the others. This can then be carried out testing the next radiator.
 
 My guess is this doesn't really get carried out as it is tedious and time consuming.
 
-### The solution.
+### The Solution.
 Measure which radiator heats up quickest by logging the temperature curve from each one on an engineers phone so they can see without having to traverse the building.
 
 #### Equipement
