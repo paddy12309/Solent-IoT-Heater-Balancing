@@ -13,4 +13,4 @@ Measure which radiator heats up quickest by logging the temperature curve from e
  - Pipe clamp thermocouple
  - Mobile phone
 
-with these 3 things we shuld be able to solve the majority of the tedium presented by the task of balancing a heating system.
+With these 3 things we shuld be able to solve the majority of the tedium presented by the task of balancing a heating system.
