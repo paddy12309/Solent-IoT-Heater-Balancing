@@ -51,7 +51,8 @@ Balancing a central heating system involves adjusting the flow of water through 
 - An adjustable wrench (for lockshield valves).
 - Patience, as the process can be time-consuming!
 
----
+---  
+
 
 Balancing is a precise process but pays off in terms of comfort and energy efficiency. If the task feels too complex or time-consuming, a professional heating engineer can perform it effectively.
 
