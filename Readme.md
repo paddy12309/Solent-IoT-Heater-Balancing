@@ -70,6 +70,7 @@ Currently, this is a hugely manual process, requiring a thermometer to check one
 3. Utilize sensors controlled by microcontrollers to monitor and manage radiator performance.
 4. Create a user-friendly interface (mobile or web application) for real-time feedback and control.
 5. Test and evaluate the prototype in a simulated environment to ensure accuracy and efficiency.
+6. Use a git repository to track your work as a team. This should follow git best practices where possible.
 
 ---
 
@@ -98,6 +99,7 @@ The system will suggest or automatically implement adjustments for optimal heat 
 - An intuitive user interface for installers to monitor and control the system.
 - Comprehensive documentation detailing the design, implementation, and testing process.
 - Insights into further development and scalability for real-world applications.
+- Working knowledge of Git. https://gist.github.com/luismts/495d982e8c5b1a0ced4a57cf3d93cf60
 
 ---
 
@@ -106,3 +108,15 @@ The system will suggest or automatically implement adjustments for optimal heat 
 1. Create a system for 'job' history.
 2. Develop an IoT-enabled prototype that automates temperature measurement and adjustment processes.
 3. Create a guided setup feature to helpm the end user.
+
+---
+
+## Key Notes for Students
+
+- This project should be approached as a research and development exercise, where your work serves as a foundation for future improvements and expansions.  
+- **Documentation is imperative**: Your report must be clear, concise, and well-structured to allow others to understand and build upon your work. Include system design, implementation details, testing results, and justifications for your choices.  
+- **Focus on scalability and extensibility**: Ensure your solution demonstrates how it could be expanded or adapted for future use cases or larger systems.  
+- **Highlight critical thinking and research**: Justify your technology stack, design choices, and feature implementations with evidence-based reasoning and references where appropriate.  
+- **Testing and evaluation** are crucial: A thorough evaluation of your prototype's functionality, limitations, and potential areas for improvement will be highly valued.  
+- **Innovation and originality**: Aim to go beyond the baseline objectives by addressing further objectives or proposing new features that add significant value to the project.  
+- Your work should not only solve the problem but also **contribute to your academic and practical understanding** of IoT-based systems.
